@@ -9,7 +9,7 @@
   <p align="center">
     CSV File in Java mit Streams bearbeiten 
     <br />
-    <a href="https://github.com/github_2Alexa/CSV_Streams_Java_">
+    <a href="https://github.com/2Alexa/CSV_Streams_Java_">
     <strong>Erkunde die Dokumentation»</strong></a>
     <br />
   </p>
@@ -82,7 +82,7 @@ Wir benutzen die folgende "Dependency":
 ## Contact
 
 
-Project Link: [https://github.com/2Alexa/CSV_Streams_Java_](https://github.com/CSV_Streams_Java_)
+Project Link: [https://github.com/2Alexa/CSV_Streams_Java_](https://github.com/2Alexa/CSV_Streams_Java_)
 
 
 
